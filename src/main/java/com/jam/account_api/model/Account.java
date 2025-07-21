@@ -1,4 +1,4 @@
-package com.jam.account_api.models;
+package com.jam.account_api.model;
 
 import com.jam.account_api.enums.Role;
 import jakarta.persistence.CascadeType;
